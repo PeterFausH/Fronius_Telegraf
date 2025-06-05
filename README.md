@@ -1,5 +1,5 @@
 # Fronius_Telegraf
-![Auswahl_047](https://github.com/user-attachments/assets/987d7b6e-1e9f-4979-a560-223da435ead7)
+![Fronius_Telegraf_Logo](https://github.com/user-attachments/assets/fd121307-95f2-40dc-a268-e742b7ecc318)
 
 telegraf.conf that transfers Fronius Symo Hybrid Api to influxDB
 
